@@ -6,9 +6,9 @@ color:
   saturation: 0.057741974014788866
   rhythmicContrast: 0.1358512924052775
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: The Pseudolexicon
